@@ -1,0 +1,15 @@
+{
+  "name": "wax-games-bots",
+  "version": "1.0.0",
+  "description": "Some Node.js scripts to bot main Wax games",
+  "main": "play-mw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mann0000",
+  "license": "MIT",
+  "dependencies": {
+    "eosjs": "^22.0.0",
+    "request": "^2.88.2"
+  }
+}
