@@ -1,4 +1,4 @@
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a3d14f0dcc5a4d138e035b63376bbe69)](https://www.codacy.com/gh/mann0000/wax-game-bots/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mann0000/wax-game-bots&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a2cc1c99b30441aea8f4b92506867198)](https://www.codacy.com/gh/mann0000/wax-game-bots/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mann0000/wax-game-bots&amp;utm_campaign=Badge_Grade)
 
 # wax-game-bots
 I made some scripts to automate basic interactions on Wax blockchain games (i.e, bots). I use them daily and you may like them!
