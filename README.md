@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/cc5d5196f5dc4c248b6fa68d7a5f64cc)](https://app.codacy.com/gh/mann0000/wax-game-bots?utm_source=github.com&utm_medium=referral&utm_content=mann0000/wax-game-bots&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a3d14f0dcc5a4d138e035b63376bbe69)](https://www.codacy.com/gh/mann0000/wax-game-bots/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mann0000/wax-game-bots&amp;utm_campaign=Badge_Grade)
 
 # wax-game-bots
