@@ -20,6 +20,7 @@ If you plan to run them automatically, Heroku has a free tier and a [great guide
 
 # Content
 * metalwargame : basic scripts to play [Metal War](https://metal-war.com/). They allow you to raid automatically and repair your damaged units
+* ilovekolobok: basic scripts playing [Koloboks](http://wax.kolobok.io/). They allow you to adventure, breed, claim and send prizes to Rplanet automatically
 
 # Want to help?
 Make a pull request or chat with me!
