@@ -6,7 +6,7 @@ _ mann000 <t.me/mann0000>, tips appreciated (dsnqy.wam)
 
 # Prerequisites
 These scripts are written for Node.js and interact with Wax blockchain. You therefore need:
-* A Wax account with a private key. Use Scatter to get one and then activate it. The key does not leave the script.
+* A Wax account with a private key. Use Scatter to get one and then activate it. The key does not leave the script. Replace all accounts mention with your wax address (mine is often nfttreasury2)
 * Basic knowledge of Node.js: you have to install it and then install that repository dependencies to make it run (npm install).
 * An active Internet connection: the scripts make calls to a Wax RPC. You therefore need an Internet connection.
 * Some assets related to the game you want to bot (see comments on scripts)
